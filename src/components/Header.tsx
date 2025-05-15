@@ -96,6 +96,7 @@ const NavLinks = ({ isMobile = false, onClick = () => {} }) => {
     { name: 'Experience', href: '#experience' },
     { name: 'Skills', href: '#skills' },
     { name: 'Projects', href: '#projects' },
+    { name: 'Certifications', href: '#certifications' },
     { name: 'Education', href: '#education' },
   ];
 
