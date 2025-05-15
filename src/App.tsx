@@ -8,6 +8,7 @@ import Projects from './components/Projects';
 import Education from './components/Education';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Certifications from './components/Certifications';
 
 function App() {
   // Update document title
@@ -24,6 +25,7 @@ function App() {
         <Experience />
         <Skills />
         <Projects />
+        <Certifications/>
         <Education />
         <Contact />
       </main>
