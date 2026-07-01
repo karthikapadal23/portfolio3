@@ -13,7 +13,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="bg-gray-100 rounded-xl overflow-hidden shadow-md transform hover:-translate-y-2 transition-transform duration-300">
             <img 
-              src="./about2.jpeg" 
+              src="./about2.jpg" 
               alt="About Karthika Padala" 
               className="w-full h-64 md:h-96 object-cover"
             />
