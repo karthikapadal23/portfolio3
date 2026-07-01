@@ -59,7 +59,7 @@ Driven by curiosity and continuous learning, I stay ahead of evolving trends in 
               </div>
               <div className="flex items-center space-x-3">
                 <FileText className="h-5 w-5 text-blue-600" />
-              <a href="/Karthika_P.pdf" download className="text-blue-600 hover:text-blue-800 transition"> Download Resume</a>
+              <a href="/Karthika_P(2).pdf" download className="text-blue-600 hover:text-blue-800 transition"> Download Resume</a>
               </div>
             </div>
             
